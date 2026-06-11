@@ -1,8 +1,3 @@
-/*
- * Q11: Find GCD of two numbers
- * Day-3 | Admission No: 25CSAIM290
- */
-
 #include <stdio.h>
 
 int main() {
