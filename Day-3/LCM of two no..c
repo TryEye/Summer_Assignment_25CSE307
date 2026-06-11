@@ -1,8 +1,3 @@
-/*
- * Q12: Find LCM of two numbers
- * Day-3 | Admission No: 25CSAIM290
- */
-
 #include <stdio.h>
 
 int gcd(int a, int b) {
