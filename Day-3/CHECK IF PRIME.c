@@ -1,8 +1,3 @@
-/*
- * Q9: Check whether a number is prime
- * Day-3 | Admission No: 25CSAIM290
- */
-
 #include <stdio.h>
 
 int main() {
