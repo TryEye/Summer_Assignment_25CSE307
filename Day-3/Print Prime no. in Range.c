@@ -1,8 +1,3 @@
-/*
- * Q10: Print prime numbers in a range
- * Day-3 | Admission No: 25CSAIM290
- */
-
 #include <stdio.h>
 
 int isPrime(int num) {
