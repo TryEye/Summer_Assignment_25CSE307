@@ -1,8 +1,3 @@
-/*
- * Q33: Print reverse star pattern: ***** / **** / *** / ** / *
- * Day-9 | Admission No: 25CSAIM290
- */
-
 #include <stdio.h>
 
 int main() {
